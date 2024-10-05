@@ -49,4 +49,42 @@ Throughout this project, I learned how to effectively visualize and analyze econ
 
 ---
 
-## Project 2: [Project Name]
+## Project 2: P3 Adaptive Consulting Project
+
+## Project Overview
+This repository contains my submission for the P3 Adaptive simulated consulting project. The goal was to create a Power BI data model using the provided Excel data to solve a business challenge.
+
+## Important Note on Report Discrepancies
+
+As part of the simulated consulting project, the original report provided for replication contained intentional discrepancies in the output. These were designed to challenge candidates' analytical skills and ability to identify and resolve inconsistencies.
+
+### Key Points:
+- The inaccuracies may relate to specific metrics, calculations, or visualizations.
+- Candidates were expected to critically evaluate the provided data and identify areas needing correction.
+- This aspect of the project was a valuable learning experience, highlighting the importance of attention to detail and problem-solving in data analysis.
+
+In my approach, I took the time to thoroughly investigate these discrepancies and ensure my final report accurately reflects the correct metrics and insights.
+
+![image](https://github.com/user-attachments/assets/23cea012-16e3-4797-805a-a79a24160333)
+
+
+## Project Components
+- Detailed instructions and insights into the project.
+- https://github.com/user-attachments/files/17267062/Requirements.for.P3.Adaptive.employment.application.process.docx
+- The report for replic
+
+
+Detailed instructions and insights into the project.
+- A walkthrough of the project and its features.
+- https://github.com/user-attachments/assets/885b7d3a-6bc2-4298-9d98-e9613d353de9
+
+## Instructions
+1. Download the Excel file provided in the email.
+2. Follow the documented steps to create the Power BI model.
+3. Review the demo videos for a walkthrough of the project.
+
+## Future Considerations
+- Ideas for enhancing the data model or report design based on potential client needs.
+
+
+
