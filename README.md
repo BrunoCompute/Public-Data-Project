@@ -83,5 +83,8 @@ Detailed instructions and insights into the project.
 ## Future Considerations
 - Ideas for enhancing the data model or report design based on potential client needs.
 
+## Report Sample
+Sample report output for the P3 Adaptive consulting project, illustrating the key metrics and visualizations, including the initial incorrect data provided for replication purposes.
+
 ![image](https://github.com/user-attachments/assets/23cea012-16e3-4797-805a-a79a24160333)
 
