@@ -65,9 +65,6 @@ As part of the simulated consulting project, the original report provided for re
 
 In my approach, I took the time to thoroughly investigate these discrepancies and ensure my final report accurately reflects the correct metrics and insights.
 
-![image](https://github.com/user-attachments/assets/23cea012-16e3-4797-805a-a79a24160333)
-
-
 ## Project Components
 - Detailed instructions and insights into the project.
 - https://github.com/user-attachments/files/17267062/Requirements.for.P3.Adaptive.employment.application.process.docx
@@ -86,5 +83,5 @@ Detailed instructions and insights into the project.
 ## Future Considerations
 - Ideas for enhancing the data model or report design based on potential client needs.
 
-
+![image](https://github.com/user-attachments/assets/23cea012-16e3-4797-805a-a79a24160333)
 
