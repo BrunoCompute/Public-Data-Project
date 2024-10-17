@@ -1,7 +1,6 @@
 # Public-Data-Project
 
-# PowerBI
-PowerBI History
+# Data Analytics & Visualization Projects
 
 (1)
 # Veterans Data Visualization Dashboard
