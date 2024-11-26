@@ -67,7 +67,7 @@ Economic Indicators
 https://github.com/user-attachments/assets/c43c34d7-0d98-49b5-83ca-9c401ef07be4
 
 
-## Project 1: Global Economic Indicators
+## Project 2: Global Economic Indicators
 
 ### Project Overview
 This project analyzes global economic indicators for various countries, focusing on data from 2020. It includes a matrix of key metrics, visualizations such as bar charts and maps, and detailed KPIs to provide insights into economic performance.
@@ -116,7 +116,42 @@ Throughout this project, I learned how to effectively visualize and analyze econ
 - Further interactivity for user exploration of data.
 
 ---
+(3)
+## Project 3: P3 Adaptive Consulting Project
+
+https://github.com/user-attachments/assets/05b20bd8-532e-4451-98e9-9a05bf1f1a0a
+
+## Project Overview
+This repository contains my submission for the P3 Adaptive simulated consulting project. The goal was to create a Power BI data model using the provided Excel data to solve a business challenge.
+
+## Important Note on Report Discrepancies
+
+As part of the simulated consulting project, the original report provided for replication contained intentional discrepancies in the output. These were designed to challenge candidates' analytical skills and ability to identify and resolve inconsistencies.
+
+### Key Points:
+- The inaccuracies may relate to specific metrics, calculations, or visualizations.
+- Candidates were expected to critically evaluate the provided data and identify areas needing correction.
+- This aspect of the project was a valuable learning experience, highlighting the importance of attention to detail and problem-solving in data analysis.
+
+In my approach, I took the time to thoroughly investigate these discrepancies and ensure my final report accurately reflects the correct metrics and insights.
+
+## Project Components
+- Detailed instructions and insights into the project.
+- The report for replic
 
 
+Detailed instructions and insights into the project.
+- A walkthrough of the project and its features.
+- https://github.com/user-attachments/assets/885b7d3a-6bc2-4298-9d98-e9613d353de9
 
+## Instructions
+1. Download the Excel file provided in the email.
+2. Follow the documented steps to create the Power BI model.
+3. Review the demo videos for a walkthrough of the project.
+
+## Future Considerations
+- Ideas for enhancing the data model or report design based on potential client needs.
+
+## Report Sample
+Sample report output for the P3 Adaptive consulting project, illustrating the key metrics and visualizations, including the initial incorrect data provided for replication purposes.
 
