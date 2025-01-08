@@ -96,7 +96,7 @@ Throughout this project, I learned how to effectively visualize and analyze econ
 (3)
 ## Project 3: Veterans Data Visualization Dashboard
 
-- https://github.com/user-attachments/assets/2b646e9d-2e7c-436b-a6c0-95d7549d1735
+- https://github.com/user-attachments/assets/1735cb5a-4373-4aef-89a7-7d499fe2b1d4
   
 Welcome to the comprehensive Veterans Data Dashboard! This page provides insightful visualizations designed to explore the projected and actual veteran population trends from **September 2023 to September 2053**. The interactive and accessible visuals help users better understand the gender distribution, age demographics, and overall veteran population changes over time. Here's an overview of the key features on this page:
 
@@ -148,7 +148,6 @@ The dashboard is interactive, allowing users to explore different age groups, ge
 ## Video Overview
 Detailed instructions and insights into the project.
 - A walkthrough of the project and its features.
-- https://github.com/user-attachments/assets/2b646e9d-2e7c-436b-a6c0-95d7549d1735
 - https://github.com/user-attachments/assets/1735cb5a-4373-4aef-89a7-7d499fe2b1d4
 
 
