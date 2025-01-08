@@ -41,8 +41,60 @@ Detailed instructions and insights into the project.
 ## Report Sample
 Sample report output for the P3 Adaptive consulting project, illustrating the key metrics and visualizations, including the initial incorrect data provided for replication purposes.
 
+
 (2)
-## Project 2: Veterans Data Visualization Dashboard
+## Project 2: Global Economic Indicators
+
+- https://github.com/user-attachments/assets/995c5c65-f749-4920-8194-55abc72f1997
+
+### Project Overview
+This project analyzes global economic indicators for various countries, focusing on data from 2020. It includes a matrix of key metrics, visualizations such as bar charts and maps, and detailed KPIs to provide insights into economic performance.
+
+### Data Sources
+All data in this report comes from the World Bank's World Economic Development database: [World Bank DataBank](https://databank.worldbank.org).
+
+#### Specific API Data Sources:
+- Population Data: [Total Population](https://api.worldbank.org/v2/sources/2/series/SP.POP.TOTL/metadata?format=JSON)
+- GDP Data: [GDP (Constant 2010 US$)](https://api.worldbank.org/v2/sources/2/series/NY.GDP.MKTP.KD/metadata?format=JSON)
+- GDP Per Capita: [GDP Per Capita (Constant 2010 US$)](https://api.worldbank.org/v2/sources/2/series/NY.GDP.PCAP.KD/metadata?format=JSON)
+- Country Data: [All Countries](https://api.worldbank.org/v2/country/all?format=JSON&per_page=500)
+
+### Key Features
+- **Matrix**: Displays country data including:
+  - 2020 Population
+  - 2020 GDP
+  - 2020 Population Density
+  - 2020 GDP Per Capita
+  - GDP By Year (using Sparkline)
+
+- **Bar Chart**: Visual representation of the total number of countries by region.
+
+- **Map Visualization**: An orthographic map displaying economic indicators by country.
+
+- **Metadata Tab**: Additional context and information about the data used.
+
+- **Country Detail Page**: Interactive page where users can delve into specific country details and KPIs.
+
+### KPIs
+- 2020 Population
+- 2020 GDP
+- 2020 Population Density
+- 2020 GDP Per Capita
+- Annual Growth Chart: Line graph showing GDP growth percentage, GDP, and annual growth metrics.
+
+### Demo Videos
+- A walkthrough of the project and its features.
+- https://github.com/user-attachments/assets/995c5c65-f749-4920-8194-55abc72f1997
+
+### Learnings
+Throughout this project, I learned how to effectively visualize and analyze economic data, create interactive reports, and utilize Power BI to communicate insights clearly.
+
+### Future Considerations
+- Potential enhancements to include more recent data or additional economic indicators.
+- Further interactivity for user exploration of data.
+
+(3)
+## Project 3: Veterans Data Visualization Dashboard
 
 - https://github.com/user-attachments/assets/2b646e9d-2e7c-436b-a6c0-95d7549d1735
   
@@ -97,60 +149,8 @@ The dashboard is interactive, allowing users to explore different age groups, ge
 Detailed instructions and insights into the project.
 - A walkthrough of the project and its features.
 - https://github.com/user-attachments/assets/2b646e9d-2e7c-436b-a6c0-95d7549d1735
+- https://github.com/user-attachments/assets/1735cb5a-4373-4aef-89a7-7d499fe2b1d4
+
 
 Video walkthrough of the dashboard has been provided for further context and insights. ****.
-
-
-(3)
-## Project 3: Global Economic Indicators
-
-- https://github.com/user-attachments/assets/995c5c65-f749-4920-8194-55abc72f1997
-
-### Project Overview
-This project analyzes global economic indicators for various countries, focusing on data from 2020. It includes a matrix of key metrics, visualizations such as bar charts and maps, and detailed KPIs to provide insights into economic performance.
-
-### Data Sources
-All data in this report comes from the World Bank's World Economic Development database: [World Bank DataBank](https://databank.worldbank.org).
-
-#### Specific API Data Sources:
-- Population Data: [Total Population](https://api.worldbank.org/v2/sources/2/series/SP.POP.TOTL/metadata?format=JSON)
-- GDP Data: [GDP (Constant 2010 US$)](https://api.worldbank.org/v2/sources/2/series/NY.GDP.MKTP.KD/metadata?format=JSON)
-- GDP Per Capita: [GDP Per Capita (Constant 2010 US$)](https://api.worldbank.org/v2/sources/2/series/NY.GDP.PCAP.KD/metadata?format=JSON)
-- Country Data: [All Countries](https://api.worldbank.org/v2/country/all?format=JSON&per_page=500)
-
-### Key Features
-- **Matrix**: Displays country data including:
-  - 2020 Population
-  - 2020 GDP
-  - 2020 Population Density
-  - 2020 GDP Per Capita
-  - GDP By Year (using Sparkline)
-
-- **Bar Chart**: Visual representation of the total number of countries by region.
-
-- **Map Visualization**: An orthographic map displaying economic indicators by country.
-
-- **Metadata Tab**: Additional context and information about the data used.
-
-- **Country Detail Page**: Interactive page where users can delve into specific country details and KPIs.
-
-### KPIs
-- 2020 Population
-- 2020 GDP
-- 2020 Population Density
-- 2020 GDP Per Capita
-- Annual Growth Chart: Line graph showing GDP growth percentage, GDP, and annual growth metrics.
-
-### Demo Videos
-- A walkthrough of the project and its features.
-- https://github.com/user-attachments/assets/995c5c65-f749-4920-8194-55abc72f1997
-
-### Learnings
-Throughout this project, I learned how to effectively visualize and analyze economic data, create interactive reports, and utilize Power BI to communicate insights clearly.
-
-### Future Considerations
-- Potential enhancements to include more recent data or additional economic indicators.
-- Further interactivity for user exploration of data.
-
-
 
