@@ -4,8 +4,10 @@
 
 ---
 (1)
-## Project 3: P3 Adaptive Consulting Project
+## Project 1: P3 Adaptive Consulting Project
 
+- https://github.com/user-attachments/assets/885b7d3a-6bc2-4298-9d98-e9613d353de9
+ 
 ## Project Overview
 This repository contains my submission for the P3 Adaptive simulated consulting project. The goal was to create a Power BI data model using the provided Excel data to solve a business challenge.
 
@@ -22,7 +24,7 @@ In my approach, I took the time to thoroughly investigate these discrepancies an
 
 ## Project Components
 - Detailed instructions and insights into the project.
-- The report for replic
+- The report for replication.
 
 Detailed instructions and insights into the project.
 - A walkthrough of the project and its features.
@@ -40,8 +42,10 @@ Detailed instructions and insights into the project.
 Sample report output for the P3 Adaptive consulting project, illustrating the key metrics and visualizations, including the initial incorrect data provided for replication purposes.
 
 (2)
-# Veterans Data Visualization Dashboard
+## Project 2: Veterans Data Visualization Dashboard
 
+- https://github.com/user-attachments/assets/2b646e9d-2e7c-436b-a6c0-95d7549d1735
+  
 Welcome to the comprehensive Veterans Data Dashboard! This page provides insightful visualizations designed to explore the projected and actual veteran population trends from **September 2023 to September 2053**. The interactive and accessible visuals help users better understand the gender distribution, age demographics, and overall veteran population changes over time. Here's an overview of the key features on this page:
 
 ## Key Visuals
@@ -98,12 +102,9 @@ Video walkthrough of the dashboard has been provided for further context and ins
 
 
 (3)
-Economic Indicators
+## Project 3: Global Economic Indicators
 
 - https://github.com/user-attachments/assets/c43c34d7-0d98-49b5-83ca-9c401ef07be4
-
-
-## Project 2: Global Economic Indicators
 
 ### Project Overview
 This project analyzes global economic indicators for various countries, focusing on data from 2020. It includes a matrix of key metrics, visualizations such as bar charts and maps, and detailed KPIs to provide insights into economic performance.
