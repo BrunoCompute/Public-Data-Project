@@ -2,7 +2,44 @@
 
 # Data Analytics & Visualization Projects
 
+---
 (1)
+## Project 3: P3 Adaptive Consulting Project
+
+## Project Overview
+This repository contains my submission for the P3 Adaptive simulated consulting project. The goal was to create a Power BI data model using the provided Excel data to solve a business challenge.
+
+## Important Note on Report Discrepancies
+
+As part of the simulated consulting project, the original report provided for replication contained intentional discrepancies in the output. These were designed to challenge candidates' analytical skills and ability to identify and resolve inconsistencies.
+
+### Key Points:
+- The inaccuracies may relate to specific metrics, calculations, or visualizations.
+- Candidates were expected to critically evaluate the provided data and identify areas needing correction.
+- This aspect of the project was a valuable learning experience, highlighting the importance of attention to detail and problem-solving in data analysis.
+
+In my approach, I took the time to thoroughly investigate these discrepancies and ensure my final report accurately reflects the correct metrics and insights.
+
+## Project Components
+- Detailed instructions and insights into the project.
+- The report for replic
+
+Detailed instructions and insights into the project.
+- A walkthrough of the project and its features.
+- https://github.com/user-attachments/assets/885b7d3a-6bc2-4298-9d98-e9613d353de9
+
+## Instructions
+1. Download the Excel file provided in the email.
+2. Follow the documented steps to create the Power BI model.
+3. Review the demo videos for a walkthrough of the project.
+
+## Future Considerations
+- Ideas for enhancing the data model or report design based on potential client needs.
+
+## Report Sample
+Sample report output for the P3 Adaptive consulting project, illustrating the key metrics and visualizations, including the initial incorrect data provided for replication purposes.
+
+(2)
 # Veterans Data Visualization Dashboard
 
 Welcome to the comprehensive Veterans Data Dashboard! This page provides insightful visualizations designed to explore the projected and actual veteran population trends from **September 2023 to September 2053**. The interactive and accessible visuals help users better understand the gender distribution, age demographics, and overall veteran population changes over time. Here's an overview of the key features on this page:
@@ -53,18 +90,17 @@ A filter icon is displayed in the corner of the visuals. Hovering over it reveal
 The dashboard is interactive, allowing users to explore different age groups, genders, and timeframes with ease. Hover over different visuals to see additional insights or adjust filters to customize the view.
 
 ## Video Overview
-
-https://github.com/user-attachments/assets/2b646e9d-2e7c-436b-a6c0-95d7549d1735
+Detailed instructions and insights into the project.
+- A walkthrough of the project and its features.
+- https://github.com/user-attachments/assets/2b646e9d-2e7c-436b-a6c0-95d7549d1735
 
 Video walkthrough of the dashboard has been provided for further context and insights. ****.
 
 
-
-
-(2)
+(3)
 Economic Indicators
 
-https://github.com/user-attachments/assets/c43c34d7-0d98-49b5-83ca-9c401ef07be4
+- https://github.com/user-attachments/assets/c43c34d7-0d98-49b5-83ca-9c401ef07be4
 
 
 ## Project 2: Global Economic Indicators
@@ -115,43 +151,5 @@ Throughout this project, I learned how to effectively visualize and analyze econ
 - Potential enhancements to include more recent data or additional economic indicators.
 - Further interactivity for user exploration of data.
 
----
-(3)
-## Project 3: P3 Adaptive Consulting Project
 
-https://github.com/user-attachments/assets/05b20bd8-532e-4451-98e9-9a05bf1f1a0a
-
-## Project Overview
-This repository contains my submission for the P3 Adaptive simulated consulting project. The goal was to create a Power BI data model using the provided Excel data to solve a business challenge.
-
-## Important Note on Report Discrepancies
-
-As part of the simulated consulting project, the original report provided for replication contained intentional discrepancies in the output. These were designed to challenge candidates' analytical skills and ability to identify and resolve inconsistencies.
-
-### Key Points:
-- The inaccuracies may relate to specific metrics, calculations, or visualizations.
-- Candidates were expected to critically evaluate the provided data and identify areas needing correction.
-- This aspect of the project was a valuable learning experience, highlighting the importance of attention to detail and problem-solving in data analysis.
-
-In my approach, I took the time to thoroughly investigate these discrepancies and ensure my final report accurately reflects the correct metrics and insights.
-
-## Project Components
-- Detailed instructions and insights into the project.
-- The report for replic
-
-
-Detailed instructions and insights into the project.
-- A walkthrough of the project and its features.
-- https://github.com/user-attachments/assets/885b7d3a-6bc2-4298-9d98-e9613d353de9
-
-## Instructions
-1. Download the Excel file provided in the email.
-2. Follow the documented steps to create the Power BI model.
-3. Review the demo videos for a walkthrough of the project.
-
-## Future Considerations
-- Ideas for enhancing the data model or report design based on potential client needs.
-
-## Report Sample
-Sample report output for the P3 Adaptive consulting project, illustrating the key metrics and visualizations, including the initial incorrect data provided for replication purposes.
 
