@@ -104,7 +104,7 @@ Video walkthrough of the dashboard has been provided for further context and ins
 (3)
 ## Project 3: Global Economic Indicators
 
-- https://github.com/user-attachments/assets/c43c34d7-0d98-49b5-83ca-9c401ef07be4
+- https://github.com/user-attachments/assets/995c5c65-f749-4920-8194-55abc72f1997
 
 ### Project Overview
 This project analyzes global economic indicators for various countries, focusing on data from 2020. It includes a matrix of key metrics, visualizations such as bar charts and maps, and detailed KPIs to provide insights into economic performance.
